@@ -1,2 +1,2 @@
 # JRK
- Olivineltd.com frontend project work
+Frontend project work
